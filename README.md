@@ -59,8 +59,3 @@ Power BI drillthrough allows users to right-click and explore specific data.
 ![Patient View](dashboard2.png)
 ![Department View](dashboard3.png)
 ![Business Takeaways](Takeaways.png)
-
-
-## 🤝 Connect with Me
-
-Feel free to reach out if you have feedback, suggestions, or collaboration ideas!
