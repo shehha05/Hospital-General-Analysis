@@ -1,5 +1,5 @@
 
-# 🏥 Hospital General Analysis - Power BI Dashboard
+# 🏥 PowerBI- Hospital General Analysis Dashboard
 
 This Power BI project presents an interactive and insightful analysis of a general hospital's operations and financial metrics. It demonstrates business understanding, storytelling through visuals, and the use of advanced Power BI features like drillthroughs.
 
